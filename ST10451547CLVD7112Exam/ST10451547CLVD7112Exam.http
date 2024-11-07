@@ -1,0 +1,6 @@
+@ST10451547CLVD7112Exam_HostAddress = http://localhost:5026
+
+GET {{ST10451547CLVD7112Exam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
